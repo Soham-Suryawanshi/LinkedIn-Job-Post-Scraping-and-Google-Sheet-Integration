@@ -1,6 +1,5 @@
 # LinkedIn-Job-Post-Scraping-and-Google-Sheet-Integration
 
-Tasks:
 Part 1: Web Scraping LinkedIn
 Used Python and BeautifulSoup web scraping library to extract job posts from LinkedIn.
 Filtered jobs based on the following criteria:
